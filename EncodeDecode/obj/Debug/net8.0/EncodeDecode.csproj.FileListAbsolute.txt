@@ -1,0 +1,14 @@
+C:\LEARN\EncodeDecode\EncodeDecode\bin\Debug\net8.0\EncodeDecode.exe
+C:\LEARN\EncodeDecode\EncodeDecode\bin\Debug\net8.0\EncodeDecode.deps.json
+C:\LEARN\EncodeDecode\EncodeDecode\bin\Debug\net8.0\EncodeDecode.runtimeconfig.json
+C:\LEARN\EncodeDecode\EncodeDecode\bin\Debug\net8.0\EncodeDecode.dll
+C:\LEARN\EncodeDecode\EncodeDecode\bin\Debug\net8.0\EncodeDecode.pdb
+C:\LEARN\EncodeDecode\EncodeDecode\obj\Debug\net8.0\EncodeDecode.GeneratedMSBuildEditorConfig.editorconfig
+C:\LEARN\EncodeDecode\EncodeDecode\obj\Debug\net8.0\EncodeDecode.AssemblyInfoInputs.cache
+C:\LEARN\EncodeDecode\EncodeDecode\obj\Debug\net8.0\EncodeDecode.AssemblyInfo.cs
+C:\LEARN\EncodeDecode\EncodeDecode\obj\Debug\net8.0\EncodeDecode.csproj.CoreCompileInputs.cache
+C:\LEARN\EncodeDecode\EncodeDecode\obj\Debug\net8.0\EncodeDecode.dll
+C:\LEARN\EncodeDecode\EncodeDecode\obj\Debug\net8.0\refint\EncodeDecode.dll
+C:\LEARN\EncodeDecode\EncodeDecode\obj\Debug\net8.0\EncodeDecode.pdb
+C:\LEARN\EncodeDecode\EncodeDecode\obj\Debug\net8.0\EncodeDecode.genruntimeconfig.cache
+C:\LEARN\EncodeDecode\EncodeDecode\obj\Debug\net8.0\ref\EncodeDecode.dll
